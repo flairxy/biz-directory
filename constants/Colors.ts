@@ -5,5 +5,6 @@
 
 export const Colors = {
   primary: '#7f57f1',
-  gray: '#8f8f8f'
+  gray: '#8f8f8f',
+  icon_bg: '#ebe6fa',
 };
